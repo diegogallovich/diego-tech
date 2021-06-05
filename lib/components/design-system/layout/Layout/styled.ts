@@ -25,6 +25,6 @@ export const MainContent = styled.main`
   //* MEDIA QUERIES
   // Medium devices (tablets, less than 992px)
   @media (max-width: 991.98px) {
-    padding-bottom: 70rem;
+    padding-bottom: 90rem;
   }
 `;
