@@ -33,38 +33,39 @@ export const Layout: FC = ({ children }) => {
         />
         <meta
           name='theme-color'
-          content='#DC5835'
+          content='#212121'
+
         />
         <meta
           name='description'
           content='Solution oriented technology enthusiast and software developer who believes in digital business, digital economy and digital security.'
         />
-       
 
-        
-<meta
-          name='og:title'
-          content={siteTitle}
-        />
-        <meta
-          property='og:description'
-          content='Solution oriented technology enthusiast and software developer who believes in digital business, digital economy and digital security.'
-        />
-        <meta
-          property='og:type'
-          content='website'
-        />
-        {/*
-          // Todo: Make meta tag og:locale respond dynamically
-        */}
-        <meta
-          property='og:locale'
-          content='es-us'
-        />
-        <meta
-          name='twitter:card'
-          content='summary_large_image'
-        />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
         <title>Diego Gallovich</title>
       </Head>
       <Header />
