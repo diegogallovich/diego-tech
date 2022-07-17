@@ -1,11 +1,11 @@
 {
-  "name": "Alohause World | Top locations, top accomodations",
-  "short_name": "Alohause World",
-  "description": "Alohause World | Private rooms and entire homes in New York, Barcelona and Los Angeles | Top locations, top accomodations | Private rooms and entire homes for Professionals and students.",
+  "name": "Diego Gallovich",
+  "short_name": "diego.tech",
+  "description": "Solution Oriented Technology Consultant & Software Engineer",
   "start_url": "/",
   "display": "fullscreen",
   "background_color": "#FFFFFF",
-  "theme_color": "#DC5835",
+  "theme_color": "#212121",
   "orientation": "portrait",
   "icons": [
     {
