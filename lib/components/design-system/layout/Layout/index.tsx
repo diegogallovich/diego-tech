@@ -39,11 +39,10 @@ export const Layout: FC = ({ children }) => {
           name='description'
           content='Solution oriented technology enthusiast and software developer who believes in digital business, digital economy and digital security.'
         />
-        <meta
-          property='og:image'
-          content='https://i.ibb.co/Thgsjyk/branded-Hero.png'
-        />
-        <meta
+       
+
+        
+<meta
           name='og:title'
           content={siteTitle}
         />
