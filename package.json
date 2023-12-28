@@ -1,5 +1,5 @@
 {
-  "name": "./",
+  "name": "diego-tech",
   "version": "1.0.0",
   "scripts": {
     "dev": "blitz dev",
@@ -9,7 +9,8 @@
     "lint": "eslint --ignore-path .gitignore --ext .js,.ts,.tsx .",
     "test": "vitest run --passWithNoTests",
     "test:watch": "vitest",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "prisma:generate": "PRISMA_DOTENV_PATH=.env.local npx prisma generate"
   },
   "prisma": {
     "schema": "db/schema.prisma"
